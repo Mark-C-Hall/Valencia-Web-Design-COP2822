@@ -1,0 +1,30 @@
+1. ul {
+    list-style-type: lower-alpha;
+}
+
+2. ul {
+    list-style-image: url(star.png);
+    list-style-position: inside;
+}
+
+3. a:visited {
+    color: gray;
+}
+
+4. h1 {
+    padding: 1em 0.5em 2em 0.5em;
+}
+
+5. figure {
+    margin-left: 20px;
+}
+
+6. The first line of a paragraph.
+
+7. ?
+
+8. review p::before {
+    content: "***";
+}
+
+9. quotes: "\2018" "\2019";

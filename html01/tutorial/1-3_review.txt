@@ -1,0 +1,36 @@
+1.
+<ul>
+   <li>Packers</li>
+   <li>Vikings</li>
+   <li>Bears</li>
+   <li>Lions
+</ul>
+
+2. <ol reversed start="50">
+      <li>Pulp Fiction</li>
+      <li>The Dark Knight</li>
+      <li>The Godfather: Part II</li>
+      <li>The Godfather</li>
+      <li>The Shawshank Redemption</li>
+   </ol>
+
+3. Descript list have the item which starts the list: <dl></dl>, the term: <dt></dt>,
+   and the definition: <dd></dd>.
+
+4. <nav>
+      <ul>
+         <li><a href="index.html">Home</a></li>
+         <li><a href="faq.html">FAQ</a></li>
+         <li><a href="contacts.html">Contact Us</a></li>
+      </ul>
+   </nav>
+
+5. ../../catering/ct_catering.html
+
+6. <a href="ct_glossary.html#c_terms">
+
+7. <a href="https://www.example.com/curbside">
+
+8. <a href="mailto:a@curbside.com?subject=FYI">
+
+9. <a href="tel:+1970550002">

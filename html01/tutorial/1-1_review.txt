@@ -1,0 +1,26 @@
+1. A markup language is a language that describes the content stucture
+   of a document by "marking up" or tagging, different document elements.
+
+2. XHTML is an older form of html and stands for extensible html. hxtml has fallen
+   out of favor because it was not backwards compatible for older forms of html. it was
+   replaced by html5 which was newer easier to use but also able to use older forms
+   of web pages.
+
+3. W3C is the world wide web consortium. They are a group that agrees on the standards
+   and practices of web disign. WHATWG is the web hypertext application tech working
+   group. They are a group of folks who wanted to design an language to rival xhtml
+   and came up with html5.
+
+4. A doctype is the beginning of an html document that tells the browser what type of
+   suceeds it. for html the doctype would be: <!DOCTYPE html>
+
+5. The code is not nested correctly. The following code would be correct:
+   <p><strong>Curbside Thai now delivers!</strong></p>
+
+6. <title>Curbside Thai Employment Opportunities</title>
+
+7. <meta name="keywords" content="food truck, North Carolina, dining" />
+
+8. <meta encoding="utf-16" />
+
+9. <!-- Created by Sajja Adulet -->

@@ -1,0 +1,41 @@
+1.
+nav a {
+  display: block;
+  background-color: gray;
+}
+
+2.
+Fixed layout: The size of the page is fixed and the pixels remains constant.
+Fluid layout: the pixels is a relationship between the width of the screen as a
+  percent.
+Elastic layout: Layout is based on font size and can change if font size is
+  increased or decreased.
+
+3.
+body {
+  width: 90%;
+  max-width: 960px;
+  min-width: 320px;
+}
+
+4.
+body > header {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+5.
+aside {
+  width: 240px;
+  float: right;
+}
+
+6.
+footer {
+  clear: left;
+}
+
+7.
+The box model positioning.
+
+8. 

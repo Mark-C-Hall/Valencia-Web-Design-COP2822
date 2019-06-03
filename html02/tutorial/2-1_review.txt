@@ -1,0 +1,22 @@
+1. Inline Styles are styles inserted into html directly. Embedded styles are
+  inserted into the heading section of an html page. External style sheets
+  are additional documents with styles that can applied to different html
+  documents. It is good practice to use external style sheets.
+
+2. !important
+
+3. /* Tri and SUcceed Sports Color Sytles */
+
+4. blockquote {
+     color: rgb(120, 120, 120);
+}
+
+5. color: hsl(90, 100%, 50%);
+
+6. Adding additional styles to sheets so that older browsers can use them
+
+7. The rgb one.
+
+8. h1, h2 {
+     background-color: rgba(255, 255, 0, 0.7)
+}

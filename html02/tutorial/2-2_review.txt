@@ -1,0 +1,33 @@
+1. footer > address {
+  ...
+}
+
+2. #top {
+    font-family: 'Century Gothic', Helvetica, sans-serif;
+}
+
+3. 18px
+
+4. body {
+    font-size: 2vw;
+}
+
+5. nav > a {
+    text-decoration: none;
+}
+
+6. @font-face {
+    font-family: Cantarell;
+    src: url('cantarell.woff') format('woff'),
+         url('cantarell.ttf') format('truetype');
+}
+
+7. .Reviews blockquote {
+    font-style: italic;
+    text-indent: 3em;
+}
+
+8. h1 h2 h3 h4 h5 h6 {
+    text-align: center;
+    font-weight: normal;
+}

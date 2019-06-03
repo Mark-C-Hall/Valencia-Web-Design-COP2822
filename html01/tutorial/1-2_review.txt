@@ -1,0 +1,18 @@
+1. <h2>Gourmet Thai Cooking</h2>
+
+2. <aside>
+
+3. div was used to assign layout functions for older elements of html. Because of
+   the inconsistency and lack of standard html5 added its own tags
+
+4. <hl>
+
+5. <em>Daily Special</em>
+
+6. <p>H<sub>2</sub>SO<sub>4</sub></p>
+
+7. <link href="mystyles.css" rel="stylesheet" />
+
+8. &#8212;
+
+9. <img src="awlogo.png" alt="Art World" />
